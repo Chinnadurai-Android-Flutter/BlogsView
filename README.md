@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-#### Continent and Countries informations Sample Images
+####  Blogs and List view Sample Images
 
 ![image](https://github.com/Chinnadurai-Android-Flutter/BlogsView/blob/master/images/Screenshot_20190828-200638.jpg) 
 
